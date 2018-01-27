@@ -1,8 +1,7 @@
 # Github ssh使用流程
 
 ### 先看本地有没有.ssh
-
-    	cd ~/.ssh
+	cd ~/.ssh
 
 > 如果有的话
 
