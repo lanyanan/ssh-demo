@@ -1,4 +1,4 @@
-# Github ssh使用流程
+# Gitlab ssh使用流程
 
 ### 先看本地有没有.ssh
 	cd ~/.ssh
@@ -7,7 +7,7 @@
 
 	vim id_rsa.pub
 
-> 复制里面的秘钥在github里面配置就ok
+> 复制里面的秘钥在gitlab里面配置就ok
 
 ### 如果提示没有.ssh
 > 执行
